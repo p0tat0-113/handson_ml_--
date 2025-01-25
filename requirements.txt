@@ -24,6 +24,10 @@ jupyter>=1.0.0          # Jupyter Notebook
 tqdm>=4.64.0            # 진행률 표시기
 imbalanced-learn>=0.9.0 # 불균형 데이터 처리
 
+### 맥 GPU 가속 ###
+tensorflow-macos
+tensorflow-metal
+
 ### 옵셔널 ###
 # shap>=0.41.0          # 모델 해석 (필요 시 주석 해제)
 # mlflow>=1.26.0        # 실험 추적 (필요 시 주석 해제)
