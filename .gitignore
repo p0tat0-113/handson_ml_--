@@ -1,2 +1,6 @@
 .venv
 datasets/
+
+*.h5
+*.keras
+my_logs/
