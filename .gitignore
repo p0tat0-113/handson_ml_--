@@ -4,3 +4,4 @@ datasets/
 *.h5
 *.keras
 my_logs/
+my_dir/
