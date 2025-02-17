@@ -5,3 +5,4 @@ datasets/
 *.keras
 my_logs/
 my_dir/
+*.tgz
