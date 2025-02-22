@@ -6,3 +6,4 @@ datasets/
 my_logs/
 my_dir/
 *.tgz
+logs/
