@@ -7,3 +7,9 @@ my_logs/
 my_dir/
 *.tgz
 logs/
+
+# .DS_Store 파일을 무시하게 함. 자꾸 얘 때문에 git pull할 때 문제가 생긴다.
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
